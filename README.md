@@ -1,0 +1,1 @@
+### Sample Time Calculate Cloudfare Worker
